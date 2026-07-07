@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO: 本番ドメイン確定後に置換
+Sitemap: https://www.fs-axis.jp/sitemap.xml
