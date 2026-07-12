@@ -1,7 +1,8 @@
 # FOOTBALL SCHOOL AXiS 公式サイト
 
 茨木市・高槻市で活動するサッカースクール「FOOTBALL SCHOOL AXiS」の公式ホームページ(静的HTML)。
-2026-07-07 制作。情報ソースは公式Instagram(@football_school_axis)と旧公式ページ(sgrum)。
+2026-07-11 制作。情報ソースは公式Instagram(@football_school_axis)と旧公式ページ(sgrum)。
+テスト公開中: https://riseathlete0522.github.io/axis-hp-preview/ (noindex付き)
 
 ## 構成
 
@@ -24,7 +25,7 @@
    利用を前提としているが、掲載児童の保護者許諾はスクール側で確認済みであること
 4. 公開後、Google Search Console にサイトマップ登録+Instagramプロフィールのリンクを新URLに変更
 
-## 検証済み(2026-07-07 ローカル)
+## 検証済み(2026-07-11 ローカル)
 
 - Lighthouse(モバイル): index 91 / school 95(Performance)、Accessibility・Best Practices・SEO 全ページ100
 - Lighthouse(デスクトップ): index Performance 99
